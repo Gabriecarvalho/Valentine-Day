@@ -25,18 +25,18 @@ export default function StartPage() {
   }, [loveSince])
 
   const images = [
-    '/casal1.jfif',
-    '/casal2.jfif',
-    '/casal3.jfif',
-    '/casal4.jfif',
-    '/casal5.jfif',
-    '/casal6.jfif',
-    '/casal7.jfif',
-    '/casal8.jfif',
-    '/casal9.jfif',
-    '/casal10.jfif',
-    '/casal11.jfif',
-    '/casal12.jfif',
+    '/casal1.jpg',
+    '/casal2.jpg',
+    '/casal3.jpg',
+    '/casal4.jpg',
+    '/casal5.jpg',
+    '/casal6.jpg',
+    '/casal7.jpg',
+    '/casal8.jpg',
+    '/casal9.jpg',
+    '/casal10.jpg',
+    '/casal11.jpg',
+    '/casal12.jpg',
   ]
 
   const [index, setIndex] = useState(0)
